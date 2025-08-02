@@ -1,0 +1,1 @@
+print('AutoTinder bot initialized')
